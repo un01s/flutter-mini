@@ -1,0 +1,15 @@
+name: "Build & release" 
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build & Release
+    runs-on: ubuntu-latest
+
