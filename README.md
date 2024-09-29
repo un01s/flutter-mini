@@ -10,3 +10,5 @@ The real meat is main.dart, which could be found under the subdirectory [lib](ht
 
 the script for github action can be found under ```.github/workflows/main.yml```.
 
+The reference is [here](https://medium.com/@colonal/automating-flutter-builds-and-releases-with-github-actions-77ccf4a1ccdd).
+

@@ -9,7 +9,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Barebones Template',
+      title: 'Flutter Mini',
       theme: ThemeData(
         primarySwatch: Colors.grey,
       ),
